@@ -1,0 +1,2 @@
+# myjavagithubproject
+training_phase_two_demo

@@ -1,6 +1,6 @@
 package com.lti.user;
 
-import java.util.Scanner;
+//import java.util.Scanner;
 
 
 public class PushApp {
